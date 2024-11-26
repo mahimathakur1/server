@@ -1,0 +1,5 @@
+com\servlets\DisplayServlet.class
+com\servlets\RegisterServlet.class
+com\servlets\UpdateServlet.class
+com\servlets\DeleteServlet.class
+com\database\DBConnection.class
